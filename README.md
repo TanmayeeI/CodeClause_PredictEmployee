@@ -6,6 +6,7 @@ Objective: To build a classification model using HR data to predict whether an e
 Tools Used: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 Key Learnings:
+
 Data preprocessing and feature selection
 
 Building and evaluating machine learning classification models
