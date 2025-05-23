@@ -7,5 +7,7 @@ Tools Used: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 Key Learnings:
 Data preprocessing and feature selection
+
 Building and evaluating machine learning classification models
+
 Understanding HR metrics and their impact on attrition
